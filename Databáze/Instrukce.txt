@@ -1,0 +1,5 @@
+Databáze je přes Xampp.. - MySql
+
+Zde přikládám SQL kód pro databázi
+
+potřeba nainstalovat, nebo v App.config přenastavit na vlastní 
